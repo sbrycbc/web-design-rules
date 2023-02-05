@@ -2,6 +2,8 @@
 
 ## responsive rules
 
+### always start with mobile first 
+
 ### common breakpoints for widths of devices
 
         320px — 480px: Mobile devices
